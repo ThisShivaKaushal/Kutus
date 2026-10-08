@@ -1,0 +1,25 @@
+{
+  "name": "kutus",
+  "version": "1.0.0",
+  "description": "Your Slack bot is ready to chat when you send a direct message or mention it in a channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisShivaKaushal/Kutus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ThisShivaKaushal/Kutus/issues"
+  },
+  "homepage": "https://github.com/ThisShivaKaushal/Kutus#readme",
+  "dependencies": {
+    "@slack/bolt": "^5.1.0",
+    "dotenv": "^18.0.5"
+  }
+}
