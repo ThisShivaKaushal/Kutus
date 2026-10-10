@@ -25,5 +25,11 @@ You can try the bot in this channel or other.
 
 Link: ***https://hackclub.enterprise.slack.com/archives/C0C838FF493***
 
+# Details 
+
+This is a challenge given by hackclub through Stardance Challenge, I made this through the guides that is given by the Stardance, so called Hackclubber.
+
+I really used the Guides to make it, because without guides I think I cannot able to make, a lots of thanks who made the guide.
+
 
 
